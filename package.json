@@ -1,7 +1,7 @@
 {
-  "name": "flappy-bird-server",
-  "version": "1.0.0",
-  "description": "A server for the flappy bird multiplayer game",
+  "name": "epic-arena-server",
+  "version": "0.1.0",
+  "description": "Epic Arena Server",
   "main": "dist/index.js",
   "scripts": {
     "test": "tslint -c tslint.json 'src/**/*.ts'",
@@ -11,19 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dolanmiu/flappy-bird-server.git"
+    "url": "git+https://github.com/Yabashiri/epic-arena-server"
   },
-  "keywords": [
-    "Flappy",
-    "bird",
-    "multiplayer"
-  ],
-  "author": "Dolan Miu",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dolanmiu/flappy-bird-server/issues"
-  },
-  "homepage": "https://github.com/dolanmiu/flappy-bird-server#readme",
+  "author": "Yabashiri",
   "dependencies": {
     "body-parser": "^1.15.2",
     "compression": "^1.6.2",
